@@ -45,6 +45,7 @@ button {
 h1 {
   font-size: 28px;
   margin-bottom: 20px;
+  font-style: italic;
 }
 
 input[type="text"] {
